@@ -1,17 +1,5 @@
-# Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
-### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
-### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
----
-## Functions
+# Insurance Management System Portal
+
 ### Admin
 - Admin account can be created using createsuperuser command.
 - After login, admin can view/update/delete customer
@@ -60,12 +48,3 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 https://myaccount.google.com/lesssecureapps
 ```
-
-
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
